@@ -70,5 +70,7 @@
     "algebraic-data-types",
     "functional-programming"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "dependency-cruiser": "^9.23.3"
+  }
 }
